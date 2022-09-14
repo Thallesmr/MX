@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="UM DIA A CASA CAI - 1986" tvg-logo="https://i.imgur.com/c9dmA6m.jpg" group-title="ATÉ-13/09", UM DIA A CASA CAI - 1986
-https://www.mediafire.com/file/ybv5v31avguowiv/1986_-_UM_D14_4_C4S4_C41.mkv/file
-
 #EXTINF:-1 tvg-name="MEU NAMORADO E UM ZUMBI - 2013" tvg-logo="https://i.imgur.com/e48Rian.jpg" group-title="ATÉ-15/09", MEU NAMORADO E UM ZUMBI - 2013
 https://www.mediafire.com/file/tlzi2f4nyphytsf/2013_-_M3U_N4M0R4D0.mp4/file
 
@@ -11,3 +8,6 @@ https://www.mediafire.com/file/kn3ti2t6xsrzyrt/2007_-_1_CR1M3_D3_M35TR3.mp4/file
 
 #EXTINF:-1 tvg-name="APRENDIZ DE SONHADOR - 1993" tvg-logo="https://i.imgur.com/zQZC8Ah.jpg" group-title="ATÉ-20/09", APRENDIZ DE SONHADOR - 1993
 https://www.mediafire.com/file/jxskm1zttlwlgke/1993_-_4PR3ND1Z_D3_S0NH4D0R.mkv/file
+
+#EXTINF:-1 tvg-name="A PELE QUE HABITO - 2011" tvg-logo="https://i.imgur.com/PKh9wkg.jpg" group-title="ATÉ-21/09", A PELE QUE HABITO - 2011
+https://www.mediafire.com/file/an07oro0r7r1thn/2011_-_4_P3L3_QU3_H4B1T0.mp4/file
