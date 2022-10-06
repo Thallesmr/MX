@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="O CURIOSO CASO DE BENJAMIN BUTTON - 2008" tvg-logo="https://i.imgur.com/h8FPV7I.jpg" group-title="ATÉ-05/10", O CURIOSO CASO DE BENJAMIN BUTTON - 2008
-https://www.mediafire.com/file/008os9im9frxykg/2008_-_0_CUR10S0_C4S0_D3_B3NJ4M1N_BUTT0N.mkv/file
-
 #EXTINF:-1 tvg-name="O HOMEM BICENTENARIO - 1999" tvg-logo="https://i.imgur.com/CGB6zu1.jpg" group-title="ATÉ-07/10", O HOMEM BICENTENARIO - 1999
 https://www.mediafire.com/file/41hx2uw7gl9vti0/1999_-_0_H0M3M_B1C3NT3N4R10.mp4/file
 
@@ -20,3 +17,6 @@ https://www.mediafire.com/file/u53p1ibs5eubuq7/1994_-_4_LU4_D05_4M4NT3S.mkv/file
 
 #EXTINF:-1 tvg-name="MAIS QUE ESPECIAIS - 2019" tvg-logo="https://i.imgur.com/pGo7HZI.jpg" group-title="ATÉ-12/10", MAIS QUE ESPECIAIS - 2019
 https://www.mediafire.com/file/bbm8u2cp0eue8gz/2019_-_M415_QU3_35P3C145.mkv/file
+
+#EXTINF:-1 tvg-name="EM ALGUM LUGAR DO PASSADO - 1981" tvg-logo="https://i.imgur.com/anBeo5G.jpg" group-title="ATÉ-13/10", EM ALGUM LUGAR DO PASSADO - 1981
+https://www.mediafire.com/file/9oemljucleamueg/1981_-_3M_4LGUM_LUG4R_D0_P4SS4D0.MP4/file
