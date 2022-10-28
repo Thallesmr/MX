@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="12 ANOS DE ESCRAVIDÃO - 2013" tvg-logo="https://i.imgur.com/1nCGTvP.jpg" group-title="ATÉ-27/10", 12 ANOS DE ESCRAVIDÃO - 2013
-https://www.mediafire.com/file/ah25x0wdnstms50/2013_-_12_4N05_D3_35CR4V1D40.mkv/file
-
 #EXTINF:-1 tvg-name="LOS ANGELES - CIDADE PROIBIDA - 1997" tvg-logo="https://i.imgur.com/EVfbJw9.jpg" group-title="ATÉ-28/10", LOS ANGELES - CIDADE PROIBIDA - 1997
 https://www.mediafire.com/file/9euviow199na2bj/1997_-_L05_4NG3L35_-_C1D4D3_PR01B1D4.mkv/file
 
@@ -14,3 +11,6 @@ https://www.mediafire.com/file/dacvuywlv1flrgv/2001_-_1_M3NT3_BR1LH4NT3.mkv/file
 
 #EXTINF:-1 tvg-name="A CHAVE MESTRA - 2005" tvg-logo="https://i.imgur.com/uefbvKN.jpg" group-title="ATÉ-03/11", A CHAVE MESTRA - 2005
 https://www.mediafire.com/file/ioviyyrjj5cw290/2005_-_4_CH4V3_M35TR4.mp4/file
+
+#EXTINF:-1 tvg-name="BATMAN: A PIADA MORTAL - 2016" tvg-logo="https://i.imgur.com/IS5tEhY.jpg" group-title="ATÉ-04/11", BATMAN: A PIADA MORTAL - 2016
+https://www.mediafire.com/file/vad6kob0mmj8rdx/2016_-_B4TM4N_-_4_P14D4_M0RT4L.mp4/file
