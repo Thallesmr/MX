@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CHICO XAVIER - 2010" tvg-logo="https://i.imgur.com/Rn7Lk76.jpg" group-title="ATÉ-09/11", CHICO XAVIER - 2010
-https://www.mediafire.com/file/3fyaj2xe4gyum65/2010_-_CH1C0_X4V13R.mp4/file
-
 #EXTINF:-1 tvg-name="PEARL HARBOR - 2001" tvg-logo="https://i.imgur.com/YJUOXTe.jpg" group-title="ATÉ-10/11", PEARL HARBOR - 2001
 https://www.mediafire.com/file/yqey92gb6m44rxt/2001_-_PE4RL_H4RB0R.mkv/file
 
@@ -17,3 +14,6 @@ https://www.mediafire.com/file/mbn4y1qlavw5vsj/2019_-_4M1G05_P4R4_S3MPR3.mkv/fil
 
 #EXTINF:-1 tvg-name="GLADIADOR - 2000" tvg-logo="https://i.imgur.com/PnPOpVM.jpg" group-title="ATÉ-16/11", GLADIADOR - 2000
 https://www.mediafire.com/file/fh54ofz5p1i9tqs/2000_-_GL4D14D0R.mp4/file
+
+#EXTINF:-1 tvg-name="ILHA DAS FLORES - 1989" tvg-logo="https://i.imgur.com/I6SopXv.jpg" group-title="ATÉ-17/11", ILHA DAS FLORES - 1989
+https://www.mediafire.com/file/evdomw8ydxrhjtr/1989_-_1LH4_D45_FL0R35.mkv/file
