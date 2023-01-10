@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="SEVEN - 1995" tvg-logo="https://i.imgur.com/BXwKofT.jpg" group-title="ATÉ-09/01", SEVEN - 1995
-https://www.mediafire.com/file/3tpgj0i8okf45o0/1995_-_SE7EN.mp4/file
-
 #EXTINF:-1 tvg-name="ANTES QUE TERMINE O DIA - 2004" tvg-logo="https://i.imgur.com/hC2V3rt.jpg" group-title="ATÉ-10/01", ANTES QUE TERMINE O DIA - 2004
 https://www.mediafire.com/file/s0ryx6g02ywo3dv/2004_-_4NT35_QU3_T3RM1N3_0_D14.mp4/file
 
 #EXTINF:-1 tvg-name="BESOURO - 2009" tvg-logo="https://i.imgur.com/m9LCg1x.jpg" group-title="ATÉ-14/01", BESOURO - 2009
 https://www.mediafire.com/file/s7ueacdjfvgxa5a/2009_-_B350UR0.mp4/file
+
+#EXTINF:-1 tvg-name="NOSSO LAR - 2010" tvg-logo="https://i.imgur.com/XKeCXti.jpg" group-title="ATÉ-17/01", NOSSO LAR - 2010
+https://www.mediafire.com/file/yfz58pdreopv97a/2010_-_N0SS0_L4R.mp4/file
